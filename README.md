@@ -7,6 +7,5 @@
 </p>
 
 
-```
+
 In these documents describe the modules to get skills on computer networks, protocols, web applications, and the penetration testing process which going to prepare me for the eJPT exam and certification. 
-```
